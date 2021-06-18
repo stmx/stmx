@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to create the best architecture for multimodule application.
 - 📫 @stmx3668 via Telegramm
 
-I can find at the profile only my old code. If you want check my skills please conntct with me. 
+I can find at the profile only my old code. If you want check my skills please connect with me. 
 
 <!---
 stmx/stmx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
